@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA;EACE;;;AAGF;EACE;EACA","file":"react-tutorial.80ee2152.css","sourceRoot":"..","sourcesContent":["body {\n  margin: 0;\n}\n\n.home {\n  background-color: #f3f3f3;\n  color: #010101;\n}\n"]}

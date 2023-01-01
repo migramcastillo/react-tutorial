@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/migramcastillo/react-tutorial#readme",
   "dependencies": {
-    "parcel": "^1.12.4",
+    "parcel": "^2.8.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "sass": "^1.23.0"
